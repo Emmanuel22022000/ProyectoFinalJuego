@@ -1,0 +1,20 @@
+Instrucciones:
+
+-Despues de cada cuadro de texto sera necesario que presiones
+ cualquier tecla para continuar.
+
+-Cada que debas seleccionar una de las opciones deberas
+ escribir el caracter exacto de la opcion para que sea valido
+ si no, sera necesario cerrar el programa y volver a abrirlo
+
+-El juego tiene 3 finales, animate a jugarlo mas de una vez
+
+-Cada que escojas una decision este influenciara en el curso de la
+ historia o a la hora de combatir
+
+-Si quieres salir del juego basta con cerrar la ventana, tu
+ progreso se guardara, los cuales seran indicados por la palabra
+ save
+
+-El codigo c no muestra los acentos, perdon por tantas faltas de
+ ortrografia

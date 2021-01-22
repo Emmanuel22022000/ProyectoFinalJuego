@@ -1,0 +1,18 @@
+        .===========================================================.
+                 ======                        ===
+               |        |                      | |
+           ===================       |¿        | |
+             |  ==\   /==  |         |         | |
+             | ((X)) ((X)) |         |       (     )    o======
+             |  =========  |         |O       |( )|     |
+             |  | | | | |  |         T       (  =  )   
+             |  =========  |    CanadePescar  Banyo    Escopeta
+        
+        
+         Con los circuitos calientes, has tomado una decision, matar
+         a ese rosado trasero y comertelo en la cena de hoy.
+         Antes de partir debes escoger un arma...
+         1)Cana de pescar
+         2)Banyo
+         3)Escopeta
+        .===========================================================.

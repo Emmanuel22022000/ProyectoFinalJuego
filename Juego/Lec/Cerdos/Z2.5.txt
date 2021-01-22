@@ -1,0 +1,6 @@
+        .===========================================================.
+
+         Te abre la gran puerta. Del otro lado hay un gran tunel, y
+         una luz al fondo, asi que empiezas a caminar con tranquilidad.
+
+        .===========================================================.

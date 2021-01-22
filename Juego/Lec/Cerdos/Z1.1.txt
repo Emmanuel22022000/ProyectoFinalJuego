@@ -1,0 +1,7 @@
+        .===========================================================.
+           Entras al territorio de los cerdos, y observas un amplio
+           terreno lleno con montanas de desechos de carros y motos.
+           Entre unas montanas de chatarra observas algo parecido a
+           una casa, donde vez a unos... chinos tras las rejas.
+           Decides ir a echar un vistazo.                            
+        .===========================================================.

@@ -1,0 +1,10 @@
+        .===========================================================.
+           Al llegar vez a mas cerdos, tres para ser exactos. Te
+           acercas a ellos para hablar:
+           
+         CerdoMotociclistaGuardian1 -Que haces tu aqui viejas tuercas?
+         CerdoMotociclistaGuardian2 -Nada que te incumba
+         CerdoMotociclistaGuardian3 -Parece que tendremos que sacar a
+                                     este motor de lancha a patadas
+                                     de nuestros dominios
+        .===========================================================.
